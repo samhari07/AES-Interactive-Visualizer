@@ -1,0 +1,6 @@
+{
+  "name": "AES Visual Interactive Standard",
+  "description": "An interactive educational explorer demonstrating the Advanced Encryption Standard (AES) transformations: SubBytes, ShiftRows, MixColumns, AddRoundKey, and round architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
